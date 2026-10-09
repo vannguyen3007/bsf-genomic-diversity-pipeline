@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,population,country,source
+EXAMPLE01,data/EXAMPLE01_1.fastq.gz,data/EXAMPLE01_2.fastq.gz,replace_me,replace_me,replace_me

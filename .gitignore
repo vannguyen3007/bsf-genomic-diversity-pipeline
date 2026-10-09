@@ -1,0 +1,22 @@
+# Data and generated results
+data/
+reference/
+results/
+work/
+.nextflow/
+.nextflow.log*
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.bcf
+*.vcf
+*.vcf.gz
+*.csi
+*.tbi
+.DS_Store
+__pycache__/
+*.pyc

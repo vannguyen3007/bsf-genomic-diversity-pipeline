@@ -1,0 +1,31 @@
+---
+title: "BSF Genomic Diversity & Inbreeding Monitoring"
+format:
+  html:
+    toc: true
+    code-fold: true
+---
+
+# Executive summary
+Automated summary placeholder. Biological interpretation must be generated only after a validated real-data run.
+
+# Dataset and provenance
+Record BioProject, reference assembly, sample selection, population labels and exclusions.
+
+# Sequencing and alignment QC
+MultiQC, mapping rate, depth and sample exclusions.
+
+# Variant QC
+Raw SNP count, filtering waterfall, missingness, MAF and retained SNP count.
+
+# Genetic diversity
+Observed/expected heterozygosity and allele-frequency summaries.
+
+# Inbreeding
+FIS, pairwise kinship and ROH/FROH summaries.
+
+# Population structure
+LD-pruned PCA with metadata-defined groups.
+
+# Limitations
+Document sequencing-depth heterogeneity, population imbalance, hard-call assumptions and sensitivity analyses.

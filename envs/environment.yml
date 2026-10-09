@@ -1,0 +1,17 @@
+name: bsf-popgen
+channels: [conda-forge,bioconda,defaults]
+dependencies:
+ - nextflow
+ - sra-tools
+ - fastqc
+ - fastp
+ - multiqc
+ - bwa-mem2
+ - samtools
+ - bcftools
+ - plink
+ - plink2
+ - quarto
+ - r-base
+ - r-ggplot2
+ - r-data.table

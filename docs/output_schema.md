@@ -1,0 +1,11 @@
+# Output schema
+- results/qc/fastqc
+- results/qc/fastp
+- results/qc/bam
+- results/qc/multiqc
+- results/alignment
+- results/variants/per_sample
+- results/variants/cohort
+- results/variants/filtered
+- results/population_genetics
+- report/BSF_report.qmd
